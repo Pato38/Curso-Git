@@ -9,3 +9,11 @@ Se destacan el programa y el cronograma con los contenidos del curso para la org
 
 ¡Les deseamos buena cursada!
 
+## Recursos
+Git- Módulo 1- Git y herramientas libres
+Git -Módulo 2- Repositorios y cambios
+Git- Actividad intermedia- PARMISANO-1
+Qué tan importante es aprender este tipo de herramientas y por qué
+Qué tan importante es escribir comentarios en los commits y por qué
+La principal diferencia entre Subversion y Git
+Comparativa_GitLab_vs_GitHub
