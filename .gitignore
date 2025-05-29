@@ -1,0 +1,13 @@
+# Ignorar archivos y carpetas comunes
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# Ignorar carpetas de dependencias
+node_modules/
+dist/
+build/
+venv/
+.env
